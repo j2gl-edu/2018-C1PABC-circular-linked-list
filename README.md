@@ -9,5 +9,5 @@
 
 ```sh
 mvn clean package
-java -Xmx5m -cp target/quiz01-1.0.jar edu.advanced.circular.Main
+java -Xmx10m -cp target/circular-linked-list-1.0.jar edu.advanced.linked.MainApp
 ```

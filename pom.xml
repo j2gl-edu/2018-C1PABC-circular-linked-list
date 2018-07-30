@@ -22,7 +22,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>edu.advanced.circular.TestCircular</mainClass>
+                            <mainClass>edu.advanced.linked.MainApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

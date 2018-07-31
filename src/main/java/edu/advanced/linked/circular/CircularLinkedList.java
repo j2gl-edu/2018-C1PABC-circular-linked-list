@@ -2,7 +2,7 @@ package edu.advanced.linked.circular;
 
 import edu.advanced.linked.Node;
 
-public class CicularLinkedList {
+public class CircularLinkedList {
 
     private Node head;
     private Node tail;
@@ -11,7 +11,7 @@ public class CicularLinkedList {
     /**
      * Constructor por defecto.
      */
-    public CicularLinkedList() {
+    public CircularLinkedList() {
         head = null;
         tail = null;
         size = 0;

@@ -1,6 +1,7 @@
 package edu.advanced.linked;
 
 public class Node {
+
     private int value;
     private Node next;
 
@@ -24,4 +25,5 @@ public class Node {
     public void setNext(Node next) {
         this.next = next;
     }
+
 }
